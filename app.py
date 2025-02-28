@@ -115,7 +115,7 @@ finish = False
 
 # музика
 mixer.init()
-mixer.music.load('jungles.ogg')
+mixer.music.load('jungles.mp3')
 mixer.music.play()
 
 money = mixer.Sound('money.ogg')
